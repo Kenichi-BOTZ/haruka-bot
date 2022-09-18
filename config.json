@@ -1,0 +1,23 @@
+{
+    "ownerNumber": ["6281334567203@s.whatsapp.net"],
+    "ownerName": "Kenichi Ichi",
+    "instagram" : "https://instagram.com/kenibotz_kenichi",
+    "botName": "KeniBOTZ",
+    "footer": "KeniBOTZ BETA By Kenichi",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "Gsyt6jRJ",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "anticall": true,
+    "autorespond": true,
+    "autoblok212": true,
+    "autoread": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
